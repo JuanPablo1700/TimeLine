@@ -180,10 +180,12 @@ footer {
     text-align: center;
     padding-top: 50%;
     padding-bottom: 50%;
+    border-radius: 10px;
 }
 
 .div16, .div18, .div20, .div22, .div24, .div26, .div28 {
     text-align: center;
     padding-top: 50%;
     padding-bottom: 50%;
+    border-radius: 10px;
 }
